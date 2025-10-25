@@ -55,7 +55,7 @@ Copy code
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/PPE-Detection-YOLOv11.git
+git clone https://github.com/mfurqaniftikhar/PPE-Detection-YOLOv11.git
 cd PPE-Detection-YOLOv11
 2️⃣ Create a Virtual Environment
 bash
