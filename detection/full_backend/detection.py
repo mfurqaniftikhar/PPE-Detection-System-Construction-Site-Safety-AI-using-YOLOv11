@@ -23,7 +23,7 @@ class PPEDetector:
         # Load YOLO model
         self.model = YOLO(model_path)
         
-        print(f"✅ Model loaded successfully!")
+        print(f"✅ Model loaded successfully!")### model loading
         print(f"📝 Classes: {self.model.names}")
         
         # Class names
